@@ -1,0 +1,5 @@
+export const Constants = {
+  LOGIN_SUCCESS: "LOGIN_SUCCESS",
+  RETRIEVE_APP: "RETRIEVE_APP",
+  LOGOUT: "LOGOUT",
+};
